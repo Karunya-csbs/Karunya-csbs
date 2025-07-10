@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karunya S</h1>
-<h3 align="center">💻 Web Developer| Designing with Simplicity</h3>
+<h3 align="center">Welcome to my GitHub Codebase!</h3>
 
 ---
 
