@@ -1,33 +1,63 @@
-<h1 align="center">Hi 👋, I'm Karunya S</h1>
-<h3 align="center">Aspiring Web Developer | CSBS @ MKCE | Passionate about tech & innovation</h3>
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<!-- Profile Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Karunya+S;Aspiring+Web+Developer;CSBS+Student+@MKCE;Lover+of+Tech+%26+Innovation" alt="Typing SVG" />
+</p>
 
-- 🌱 I’m currently learning **Web Development, JavaScript, React**
-- 💻 Intern at CodeSoft | Infosys Springboard Learner
-- 🏆 Participated in Hackathons & Workshops
-- 💡 I'm building a **Food Ordering Website**, **AI Fake News Detector**, and more.
-- 📫 Reach me at: **your-email@gmail.com**
-
----
-
-### 🔧 Languages & Tools:
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />&nbsp;
+  <strong>Welcome to my GitHub Codebase!</strong>
 </p>
 
 ---
 
-### 📊 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=karunya-s&show_icons=true&theme=radical)
+### 👩‍💻 About Me
 
-### 💡 Top Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karunya-s&layout=compact&theme=radical)
+- 🎓 **Student** at MKCE | B.Tech CSBS  
+- 🌱 Currently learning: **Web Development**,**HTML**,**JAVASCRIPT** 
+- 🧠 Passionate about solving real-world problems with tech   
+- 📫 Reach me at: **karunyasivakumar07@gmail.com**
 
 ---
 
-✨ *Built with love by Karunya S*
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,react,github,figma,vscode" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/karunya-s/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:karunyasofficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karunya-s&show_icons=true&theme=react" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karunya-s&theme=react" alt="GitHub Streak" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karunya-s&layout=compact&theme=react" alt="Top Languages" />
+</p>
+
+---
+
+### ⚡ Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=karunya-s&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+<p align="center">
+  ✨ Built with ❤️ by <strong>Karunya S</strong> ✨
+</p>
