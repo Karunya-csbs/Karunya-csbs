@@ -1,63 +1,124 @@
+<h1 align="center">Hi 👋, I'm Karunya S</h1>
+<h3 align="center">💻 Web Developer| Designing with Simplicity</h3>
 
-<!-- Profile Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Karunya+S;Aspiring+Web+Developer;CSBS+Student+@MKCE;Lover+of+Tech+%26+Innovation" alt="Typing SVG" />
+---
+
+### 💻 Passionate About
+
+- 🌐 Exploring modern web technologies and best practices  
+- 🤖 Diving into smart solutions with AI and automation tools
+- 🧩 Growing step-by-step as a web developer through hands-on practice 
+
+---
+
+### 🌱 Currently Learning
+
+- 🔐 Authentication and secure web practices
+- 🛠 Frontend and database management  
+- 🎓 NPTEL certification courses  
+
+---
+
+### 🛠 Tech Stack
+
+#### 👩‍💻 Programming Languages  
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
+#### 📦 Frameworks & Libraries  
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+</p>
+
+#### 🛢 Databases  
+<p>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />&nbsp;
-  <strong>Welcome to my GitHub Codebase!</strong>
+  <img src="https://github-readme-stats.vercel.app/api?username=Karunya-csbs&show_icons=true&count_private=true&hide_border=true&bg_color=000000&title_color=f06292&text_color=cfcfcf&icon_color=f06292" />
 </p>
 
 ---
 
-### 👩‍💻 About Me
-
-- 🎓 **Student** at MKCE | B.Tech CSBS  
-- 🌱 Currently learning: **Web Development**,**HTML**,**JAVASCRIPT** 
-- 🧠 Passionate about solving real-world problems with tech   
-- 📫 Reach me at: **karunyasivakumar07@gmail.com**
-
----
-
-### 🛠️ Tech Stack
+### 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,react,github,figma,vscode" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=karunya-csbs&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
+
 ---
 
-### 🌐 Connect With Me
+
+### 💻 Most Used Languages
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/karunya-s/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:karunyasofficial@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karunya-csbs&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karunya-s&show_icons=true&theme=react" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karunya-s&theme=react" alt="GitHub Streak" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karunya-s&layout=compact&theme=react" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Karunya-csbs&theme=onestar&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
-### ⚡ Contribution Activity
+### 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=karunya-s&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karunya-csbsk&area=true&hide_border=true&custom_title=Karunya-Sivakumar%20Contribution%20Graph&bg_color=000000&color=cfcfcf&line=f06292&point=cfcfcf" />
 </p>
 
 ---
 
-<p align="center">
-  ✨ Built with ❤️ by <strong>Karunya S</strong> ✨
+### 📈 Profile Views
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Karunya-csbs&label=Profile%20views&color=0e75b6&style=flat" alt="Indhuja-k" />
 </p>
+
+---
+
+### 📬 Connect with Me
+
+<p align="left">
+
+  <a href="mailto:karunyasivakumar072gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/karunya-s-b1b319290" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+ <a href="https://www.codechef.com/users/karunya_s" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+
+
+  <a href="https://www.hackerrank.com/profile/karunyasivakuma1" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  </a>
+
+  
+
+</p>
+
+---
+
+## 💡 Interesting Tidbit
+
+🧠 I believe every bug is an opportunity to learn...
