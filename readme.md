@@ -79,7 +79,7 @@
 ### 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karunya-csbsk&area=true&hide_border=true&custom_title=Karunya-Sivakumar%20Contribution%20Graph&bg_color=000000&color=cfcfcf&line=f06292&point=cfcfcf" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Karunya-csbs&area=true&hide_border=true&custom_title=Karunya-Sivakumar%20Contribution%20Graph&bg_color=000000&color=cfcfcf&line=f06292&point=cfcfcf" />
 </p>
 
 ---
