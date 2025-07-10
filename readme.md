@@ -57,17 +57,6 @@
 </p>
 
 
----
-
-
-### 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karunya-csbs&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
 ### 🏆 GitHub Achievements
 
 <p align="center">
