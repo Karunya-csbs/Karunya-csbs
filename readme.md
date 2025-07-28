@@ -1,3 +1,8 @@
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://github.com/Karunya-csbs/Karunya-csbs/blob/main/karunya%20sivakumar.png?raw=true" 
+       alt="Karunya Sivakumar Banner" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Karunya S</h1>
 <h3 align="center">Welcome to my GitHub Codebase!</h3>
 
