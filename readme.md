@@ -114,7 +114,7 @@
 ---
 
 ## 💡 Interesting Tidbit
-<center>
-  ***🧠 I believe every bug is an opportunity to learn...***
+<p align="center">
+  🧠 I believe every bug is an opportunity to learn...
 
-</center>
+</p>
